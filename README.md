@@ -1,5 +1,5 @@
 # Mask-R-CNN-MindSpore
-A Mindspore version of Mask R-CNN, trained on GPU. The backbones include Resnet50 and Mobilenetv1
+A Mindspore version of Mask R-CNN, trained on GPU. MindSpore is an artifitial-intelligence software kit developed by Huawei. The backbones include Resnet50 and Mobilenetv1
 
 # Mask R-CNN
 
