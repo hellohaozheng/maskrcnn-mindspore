@@ -251,7 +251,7 @@ python infer.py
 ```bibtex
 @misc{maskrcnn-mindspore,
   author = {Haozheng Han},
-  title = {Maskrcnn on MindSpore},
+  title = {Maskrcnn on MindSpore, Huawei},
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
