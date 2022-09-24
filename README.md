@@ -243,3 +243,17 @@ python infer.py
 
 ## Reference
 [1] He K, Gkioxari G, Dollár P, et al. Mask r-cnn[C]//Proceedings of the IEEE international conference on computer vision. 2017: 2961-2969.
+
+## Citing
+
+### BibTeX
+
+```bibtex
+@misc{maskrcnn-mindspore,
+  author = {Haozheng Han},
+  title = {Maskrcnn on MindSpore},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/hellohaozheng/maskrcnn-mindspore}}
+}
